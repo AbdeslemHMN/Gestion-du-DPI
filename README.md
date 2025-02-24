@@ -1,4 +1,4 @@
-#create a virtual environement :
+# Create a virtual environment :
 
 python -m venv venv  
 
@@ -6,6 +6,10 @@ python -m venv venv
 
 venv\Scripts\activate /
 
+# Install Dependencies : 
+
 pip install -r requirements.txt /
+
+# Run the environement :
 
 python manage.py runserver

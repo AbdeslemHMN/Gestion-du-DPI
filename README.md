@@ -4,11 +4,11 @@ python -m venv venv
 
 # Activate the virtual environment : 
 
-venv\Scripts\activate /
+venv\Scripts\activate 
 
 # Install Dependencies : 
 
-pip install -r requirements.txt /
+pip install -r requirements.txt 
 
 # Run the environement :
 
